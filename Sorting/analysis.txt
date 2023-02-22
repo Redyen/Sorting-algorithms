@@ -1,0 +1,4 @@
+1) Selection sorting had the best performance 
+2) Selection doesnt perform as many swaps as Bubble sorting which can make the processing faster. for
+example the first number in the sorted array is found after only a single swap even if the whole initial array
+has to be traversed
